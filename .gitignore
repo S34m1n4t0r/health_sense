@@ -1,0 +1,17 @@
+/mechanical/1552C3 PC Board Sizes/*.log
+
+
+
+# Temporary files
+/pcb/HealthSense/*.000
+/pcb/HealthSense/*.bak
+/pcb/HealthSense/*.bck
+/pcb/HealthSense/*.kicad_pcb-bak
+/pcb/HealthSense/*.sch-bak
+/pcb/HealthSense/*~_autosave-*
+/pcb/HealthSense/*.tmp
+/pcb/HealthSense/*-save.pro
+/pcb/HealthSense/*-save.kicad_pcb
+/pcb/HealthSense/fp-info-cache
+
+/pcb/HealthSense/*.bak

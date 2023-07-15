@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name HealthSense)(type Legacy)(uri ${KIPRJMOD}/00_Library/HealthSense.lib)(options "")(descr ""))
+)

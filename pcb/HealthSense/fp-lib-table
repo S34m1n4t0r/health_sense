@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name HealthSense)(type KiCad)(uri ${KIPRJMOD}/00_Library/HealthSense.pretty)(options "")(descr ""))
+)
