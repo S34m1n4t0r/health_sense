@@ -15,3 +15,6 @@
 /pcb/HealthSense/fp-info-cache
 
 /pcb/HealthSense/*.bak
+doku/graph.aux
+doku/graph.log
+doku/graph.pdf doku/HealthSenseSchematic_v1.1.pdf
