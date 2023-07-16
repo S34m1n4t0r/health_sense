@@ -90,7 +90,7 @@ Refer to the [User Guide](docs/user_guide.md) for detailed instructions on using
 
 ## Contributing
 
-We welcome contributions from the community to enhance the Health Sense project. If you would like to contribute, please follow the guidelines outlined in the [Contributing](CONTRIBUTING.md) document.
+We welcome contributions from the community to enhance the Health Sense project. 
 
 ## License
 
