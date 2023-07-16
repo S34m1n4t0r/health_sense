@@ -71,7 +71,6 @@ To get started with the Health Sense sensor module, follow the steps below:
 
 4. **Usage**: Once the sensor module is assembled, calibrated, and ready, you can start using it to measure light exposure in your research. See the [Usage](#usage) section for more details.
 
-For more detailed instructions and documentation, please refer to the individual documents provided in the [`docs`](docs/) directory.
 
 ## Usage
 
