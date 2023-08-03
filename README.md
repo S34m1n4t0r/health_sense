@@ -94,7 +94,8 @@ We welcome contributions from the community to enhance the Health Sense project.
 
 ## License
 
-The Health Sense project is licensed under the [MIT License](LICENSE). 
+The Health Sense project is licensed under the [GNU GENERAL PUBLIC LICENSE
+](LICENSE). 
 
 ## Contact
 
