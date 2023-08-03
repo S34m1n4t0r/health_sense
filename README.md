@@ -36,7 +36,7 @@ Breadboard setup created to verify the correct functionallity of all included se
 Two prototypes are manufactured and assembled by hand as a final POC. The uC is loaded with the arduino-bootloader.
 ![Bench Test](img/Rev_1.0.jpg)
 ### Revision 1.1
-Five prototypes are manufactured ans assembled. Enclosure holes are milled with CNC.
+Five prototypes are manufactured and assembled. Enclosure holes are milled with CNC.
 ![Bench Test](img/Rev_1.1.jpg)
 ### Known Issues
 * Enable transistor for SIM800L not working
